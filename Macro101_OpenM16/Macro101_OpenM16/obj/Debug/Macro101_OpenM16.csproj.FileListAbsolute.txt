@@ -1,0 +1,16 @@
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\bin\Debug\Macro101_OpenM16.exe.config
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\bin\Debug\Macro101_OpenM16.exe
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\bin\Debug\Macro101_OpenM16.pdb
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\Macro101_OpenM16.csproj.AssemblyReference.cache
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\Macro101_OpenM16.csproj.SuggestedBindingRedirects.cache
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\MainWindow.g.cs
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\App.g.cs
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\Macro101_OpenM16_MarkupCompile.cache
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\Macro101_OpenM16_MarkupCompile.lref
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\MainWindow.baml
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\Macro101_OpenM16.g.resources
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\Macro101_OpenM16.Properties.Resources.resources
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\Macro101_OpenM16.csproj.GenerateResource.cache
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\Macro101_OpenM16.csproj.CoreCompileInputs.cache
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\Macro101_OpenM16.exe
+C:\Users\PKrahn\Desktop\Peter\C# Macros\Macro_101_OpenM16\Macro101_OpenM16\Macro101_OpenM16\obj\Debug\Macro101_OpenM16.pdb
