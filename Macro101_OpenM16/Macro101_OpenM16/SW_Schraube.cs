@@ -18,7 +18,7 @@ namespace Macro101_OpenM16
         ModelDoc2 swModel;
         int errors = 0;
         int warnings = 0;
-        string filepath = "C:\\Kuhne Group\\Sandkasten\\Krahn\\Macro´s SW\\OpenDIN934_M16\\DIN934_M16_Daten\\DIN934+Normteile_M16x25.SLDASM";
+        string filepath = "C:\\.....DIN934+Normteile_M16x25.SLDASM";
         swModel = (ModelDoc2)swApp.ActivateDoc3("DIN934+Normteile_M16x25.SLDASM", false, 1, 0);
 
         if (swModel == null)
