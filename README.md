@@ -1,5 +1,5 @@
 Projektvorstellung: Makro Normteile einfügen
-Programmiersprachen: C# + WPF .Net
+Programmiersprachen: C# + WPF .Net + Solidworks API
 
 Problemstellung: Bei der Konstruktion nimmt es viel Zeit in Anspruch diverse Normteile und Normteilgarnituren einzufügen. 
 Lösung: Dieses Makro übernimmt vollautomatisch die Einsetzung der Normteile. Nach der Auswahl der Fläche, werden alle Bohrungen 
