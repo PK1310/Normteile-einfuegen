@@ -9,6 +9,6 @@ Lösung: Dieses Makro übernimmt vollautomatisch die Einsetzung der Normteile.
   - Nur die Bohrungen, die mit der Größenauswahl übereinstimmen, werden jedoch berücksichtigt. 
   - Die Eingegebene Klemmstärke wird berücksichtigt, die passende Schraube ausgesucht und alle Normteile werden sauber miteinander verknüpft.
   - Für die Anzeige des Bearbeitungsstand wird ein Progressbalken angezeigt.
-  - 
+    
 -> Video zur Ansicht ist beigefügt
 
